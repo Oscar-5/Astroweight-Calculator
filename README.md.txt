@@ -1,0 +1,1 @@
+Asteroid Calculator takes input data from the user (weight in lbs) and shows the user the how much that weight would be in another planet.
